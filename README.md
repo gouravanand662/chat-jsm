@@ -1,8 +1,12 @@
-# Weather App
+# Realtime Chat Application
 
-### [Live Site](https://gouravanand662.github.io/weather/)
+### [Live Site](https://gourav-chat-jsm.netlify.app/)
 
-![Weather Application](https://raw.githubusercontent.com/gouravanand662/pics/main/Annotation%202023-04-08%20144658.png)
+![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
 ## Introduction
-This is a Javascript based application where you can get the information of weather of almost all parts of the world at any time. This application gets the details of the weather from the Openweathermap API.
+This is a real-time chat application where you can send and receive messages in real-time. This project is built using React on the front end, with NodeJS + Socket.io web socket library on the back end.
+
+Setup:
+- run ```npm i && npm start``` for both client and server side to start the development server
+
